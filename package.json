@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "nuxt3-class-component-playground",
+  "scripts": {
+    "dev": "nuxt dev --clipboard --no-clear"
+  },
+  "dependencies": {
+    "vue": "latest",
+    "vue-facing-decorator": "^3.0.4",
+    "vue-router": "latest",
+    "nuxt": "^3.13.0",
+    "nuxt3-class-component": "^1.2.0"
+  }
+}
