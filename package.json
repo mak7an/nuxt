@@ -2,7 +2,7 @@
   "private": true,
   "name": "nuxt3-class-component-playground",
   "scripts": {
-    "dev": "nuxt dev --clipboard --no-clear"
+    "dev": "nuxt dev"
   },
   "dependencies": {
     "vue": "latest",
